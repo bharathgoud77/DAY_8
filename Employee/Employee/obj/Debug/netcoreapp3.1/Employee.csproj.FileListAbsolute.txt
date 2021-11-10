@@ -1,0 +1,14 @@
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.AssemblyReference.cache
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+E:\fellowship\DAY_8\DAY_8\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache
